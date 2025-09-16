@@ -1,0 +1,5 @@
+Model,ROC_AUC,PR_AUC,Precision_fraud,Recall_fraud,F1_fraud
+LogReg (balanced) @0.5,0.9721,0.7656,0.0609,0.9184,0.1143
+RandomForest (balanced) @0.5,0.9576,0.8606,0.961,0.7551,0.8457
+LogReg (balanced) @1.000,0.9721,0.7656,0.8333,0.8163,0.8247
+RandomForest (balanced) @0.287,0.9576,0.8606,0.9222,0.8469,0.883
